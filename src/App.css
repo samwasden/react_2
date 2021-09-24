@@ -1,0 +1,8 @@
+
+div {
+  display: flex;
+  text-align: center;
+  width: auto;
+  justify-content: center;
+  flex-direction: column;
+}
